@@ -152,4 +152,8 @@ This suggests that a KPU operating with **10¹² FLOPS** and using quantum princ
 
 ---
 
+```math
+E(t)=21​mv(t)2where v(t)=dtd​[Time Bridge or Warp Tunnel]
+```
+
 This document presents the **Kala Theory of Time Travel**, its mathematical foundation, and its computational implementation through **Kala KPU**, a software-based chip for time-related calculations. 🚀
